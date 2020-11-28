@@ -14,8 +14,6 @@
 </a>
 
 <br />
-<br />
-
 Hi, I'm Ali Al Fayed, a passionate self-taught Android Developer ⭐ from Egypt.
 
 ### OBJECTIVE 
@@ -29,7 +27,6 @@ I'm an ANDROID Developer (Java, Kotlin) with experience of working on a variety 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alfayedoficial&show_icons=true&theme=dark&hide_border=true&icon_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfayedoficial&langs_count=8&theme=dark&hide_border=true&icon_color=fff)](https://github.com/alfayedoficial/github-readme-stats)
-
 **Tools:**  
 <code><img height="30" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"></code>
 <code><img height="30" src="https://www.apkmirror.com/wp-content/uploads/2020/06/91/5ee85ad3f2a41.png"></code>
