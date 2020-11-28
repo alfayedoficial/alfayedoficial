@@ -23,7 +23,7 @@ I'm an ANDROID Developer (Java, Kotlin) with experience of working on a variety 
 
 - 🔭 I’m currently working at [Promo Clicks](http://promoclicks.net/)
 - 🌱 I’m currently learning [Coroutines kotlin](https://developer.android.com/kotlin/coroutines)
-- 💬 Ask me about anything [here](alfayedoficial/alfayedoficial)
+- 💬 Ask me about anything [here](https://github.com/alfayedoficial/alfayedoficial/issues)
 
 ## &#x1f4c8; Github Stats & Top Languages
 
