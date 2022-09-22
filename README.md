@@ -22,7 +22,7 @@ Hi, I'm Ali Al Fayed, a passionate self-taught Android Developer ⭐ from Egypt.
 I'm an ANDROID Developer (Java, Kotlin) with experience of working on a variety of projects and I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle, applying my knowledge of OOP, MVVM, and MVC principles. My past work includes building user-focused, innovative, keep user security and performance UI, and developing clean code with teamwork. I have good Rest API, Retrofit, Room Database, Firebase, Google Play Services, Google Admob, Butterknife-Library, Service, Broadcast Receiver knowledge and power to use Databinding, Live Data, MutableLiveData, and GitHub to work with a team. 
 
 - 🔭 I’m currently working at [Aligntech](https://play.google.com/store/apps/details?id=com.aligntech.sales)
-- 🌱 I’m currently learning [Coroutines kotlin](https://developer.android.com/kotlin/coroutines)
+- 🌱 I’m currently learning [Unit testing](https://developer.android.com/training/testing)
 - 💬 Ask me about anything [here](https://github.com/alfayedoficial/alfayedoficial/issues)
 
 ## &#x1f4c8; Github Stats & Top Languages
