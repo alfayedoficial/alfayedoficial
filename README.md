@@ -26,6 +26,7 @@ I'm an ANDROID Developer (Java, Kotlin) with experience of working on a variety 
 - 💬 Ask me about anything [here](https://github.com/alfayedoficial/alfayedoficial/issues)
 
 ## &#x1f4c8; Github Stats & Top Languages
+<a href="https://stardev.io/developers/alfayedoficial"><img alt="Check out alfayedoficial's profile on stardev.io" src="https://stardev.io/developers/alfayedoficial/badge/languages/global.svg" /></a>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alfayedoficial&show_icons=true&theme=dark&hide_border=true&icon_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfayedoficial&langs_count=8&theme=dark&hide_border=true&icon_color=fff)](https://github.com/alfayedoficial/github-readme-stats)
