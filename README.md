@@ -30,7 +30,7 @@ I'm an ANDROID Developer (Java, Kotlin) with experience of working on a variety 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alfayedoficial&show_icons=true&theme=dark&hide_border=true&icon_color=fff)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfayedoficial&langs_count=8&theme=dark&hide_border=true&icon_color=fff)](https://github.com/alfayedoficial/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alfayedoficial&" alt="alfayedoficial" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alfayedoficial&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <br />
 **Tools:**  
