@@ -1,4 +1,4 @@
-### You are welcome , I'm [Ali!](http://alialfayed.com/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+### Hello! I'm [Ali Al-Shahat Ali](http://alialfayed.com/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <a href="https://facebook.com/alfayedoficial">
   <img align="left" alt="Ali Al Fayed | Facebook" width="20px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/005-facebook.png?raw=true" />
@@ -6,35 +6,60 @@
 <a href="https://twitter.com/alfayedoficial">
   <img align="left" alt="Ali Al Fayed | Twitter" width="21px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/004-twitter.png?raw=true" />
 </a>
-<a href="https://instagram/alfayedoficial">
-  <img align="left" alt="Ali Al Fayed | Instagram " width="21px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/003-instagram.png?raw=true" />
-</a>
 <a href="https://www.linkedin.com/in/alfayedoficial/">
-  <img align="left" alt="Ali Al Fayed | LinkedIn " width="21px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/006-linkedin.png?raw=true" />
+  <img align="left" alt="Ali Al Fayed | LinkedIn" width="21px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/006-linkedin.png?raw=true" />
 </a>
 
 <br />
 <br />
 
-Hi, I'm Ali Al Fayed, a passionate self-taught Android Developer ⭐ from Egypt.
+### OBJECTIVE
+I'm a **Senior Android Developer** with 4+ years of experience in **Java**, **Kotlin**, **Flutter**, **Flutter**, and various Android development frameworks. I am highly skilled in developing mobile applications, particularly in e-commerce, educational, and facility management domains. My objective is to continue growing my expertise while contributing to innovative projects in a collaborative environment.
 
-### OBJECTIVE 
-I'm an ANDROID Developer (Java, Kotlin) with experience of working on a variety of projects and I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle, applying my knowledge of OOP, MVVM, and MVC principles. My past work includes building user-focused, innovative, keep user security and performance UI, and developing clean code with teamwork. I have good Rest API, Retrofit, Room Database, Firebase, Google Play Services, Google Admob, Butterknife-Library, Service, Broadcast Receiver knowledge and power to use Databinding, Live Data, MutableLiveData, and GitHub to work with a team. 
+### 💻 Skills
+- **Languages**: Kotlin, Java, Flutter, KMP, Basic KTOR, PHP, .NET
+- **Mobile Development**: Jetpack Compose, Dependency Injection (Hilt), Coroutines, Kotlin Flows, Retrofit, Room, Firebase, Pusher, Google Maps, Mapbox
+- **Development Practices**: Clean Architecture, MVVM, MVI, SOLID principles, Design Patterns
+- **CI/CD**: Experience in automating build, test, and deployment processes.
+- **Project Management Tools**: Git, CI/CD, Trello, Jira
+- **Other Skills**: Unit Testing, Multi-Module Structure, ARP, POS Systems, Firebase Auth, and Google Play Services
 
-- 🔭 I’m currently working at [Aligntech](https://play.google.com/store/apps/details?id=com.aligntech.sales)
-- 🌱 I’m currently learning [Unit testing](https://developer.android.com/training/testing)
-- 💬 Ask me about anything [here](https://github.com/alfayedoficial/alfayedoficial/issues)
+### 📘 Current Work
+- **[Aligntech-Solutions](https://www.aligntech-solutions.com)**: Developing and maintaining Android apps, including Sales-TC, Print Labels, and Assets Tracking for internal use. Implemented features such as barcode scanning for inventory and offline capabilities for a seamless user experience.
+  
+### 🔭 Recent Projects
+- **Facility Management App**: Includes asset tracking and water management for government projects.
+- **Educational Apps**: Developed for Websola, including Noor Academy, Yaqin, and Bonjour.
+- **E-Commerce Apps**: Developed for Promo Clicks, including Heart Attack and Unilever.
+- **Fitness Apps**: Developed for AraGeeks, including Hebe Gym management.
+- **Astagfirullah Projects**:
+  - **[Astagfirullah Plugin](https://plugins.jetbrains.com/plugin/24628-astagfirullah/)**: A plugin for JetBrains IDEs such as Android Studio, IntelliJ IDEA, WebStorm, and more. Helps users remember to seek forgiveness during build or sync progress.
+  - **[Astagfirullah Android App](https://play.google.com/store/apps/details?id=com.fourDev.astghfrAllah)**: An app for remembering and seeking forgiveness, with over 10K downloads on the Google Play Store.
 
-## &#x1f4c8; Github Stats & Top Languages
-<a href="https://stardev.io/developers/alfayedoficial"><img alt="Check out alfayedoficial's profile on stardev.io" src="https://stardev.io/developers/alfayedoficial/badge/languages/global.svg" /></a>
 
+### 🌱 I’m currently learning
+- **Unit Testing**: Expanding my knowledge in ensuring high-quality Android applications.
+- **Jetpack Compose**: Exploring advanced UI practices and integrations with Coroutines.
+- **CI/CD**: Learning more about automating pipelines and deployment.
+
+### 💬 Ask me about
+- Android development using **Kotlin** or **Java**
+- Best practices for using **Jetpack Compose**
+- Building scalable and maintainable mobile apps
+
+### 🌟 Projects Available on Codecanyon
+- **[Alert SMS Tool](https://codecanyon.net/item/alert-sms-tool-built-with-kotlin)**: A native Android app for sending SMS alerts.
+- **[Full Firebase Auth](https://codecanyon.net/item/full-firebase-auth-built-with-kotlin)**: A full authentication system using Firebase in Kotlin.
+
+### 📫 Contact Me
+- Email: [alialfayed.official@gmail.com](mailto:alialfayed.official@gmail.com)
+- LinkedIn: [Ali Al-Shahat Ali](https://www.linkedin.com/in/alfayedoficial/)
+  
+### 📈 GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alfayedoficial&show_icons=true&theme=dark&hide_border=true&icon_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfayedoficial&langs_count=8&theme=dark&hide_border=true&icon_color=fff)](https://github.com/alfayedoficial/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alfayedoficial&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
 
-<br />
-**Tools:**  
-<code><img height="30" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"></code>
-<code><img height="30" src="https://www.apkmirror.com/wp-content/uploads/2020/06/91/5ee85ad3f2a41.png"></code>
-<code><img height="30" src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_960_720.jpg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png"></code>
+[![Check out alfayedoficial's profile on stardev.io](https://stardev.io/developers/alfayedoficial/badge/languages/global.svg)](https://stardev.io/developers/alfayedoficial)
+
+</div>
