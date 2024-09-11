@@ -1,17 +1,7 @@
 ### Hello! I'm [Ali Al-Shahat Ali](http://alialfayed.com/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%fffff&lines=Senior+Android+Developer)](https://git.io/typing-svg) 
 
-<a href="https://facebook.com/alfayedoficial">
-  <img align="left" alt="Ali Al Fayed | Facebook" width="20px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/005-facebook.png?raw=true" />
-</a>
-<a href="https://twitter.com/alfayedoficial">
-  <img align="left" alt="Ali Al Fayed | Twitter" width="21px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/004-twitter.png?raw=true" />
-</a>
-<a href="https://www.linkedin.com/in/alfayedoficial/">
-  <img align="left" alt="Ali Al Fayed | LinkedIn" width="21px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/006-linkedin.png?raw=true" />
-</a>
-
-<br />
-<br />
+![](https://komarev.com/ghpvc/?username=alfayedoficial)  ![GitHub User's stars](https://img.shields.io/github/stars/alfayedoficial)   
 
 ### OBJECTIVE
 I'm a **Senior Android Developer** with 4+ years of experience in **Java**, **Kotlin**, **Flutter**, **Flutter**, and various Android development frameworks. I am highly skilled in developing mobile applications, particularly in e-commerce, educational, and facility management domains. My objective is to continue growing my expertise while contributing to innovative projects in a collaborative environment.
@@ -54,6 +44,13 @@ I'm a **Senior Android Developer** with 4+ years of experience in **Java**, **Ko
 ### 📫 Contact Me
 - Email: [alialfayed.official@gmail.com](mailto:alialfayed.official@gmail.com)
 - LinkedIn: [Ali Al-Shahat Ali](https://www.linkedin.com/in/alfayedoficial/)
+- Social : <a href="https://facebook.com/alfayedoficial">
+  <img align="left" alt="Ali Al Fayed | Facebook" width="20px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/005-facebook.png?raw=true" />
+</a> <a href="https://twitter.com/alfayedoficial">
+  <img align="left" alt="Ali Al Fayed | Twitter" width="21px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/004-twitter.png?raw=true" />
+</a> <a href="https://www.linkedin.com/in/alfayedoficial/">
+  <img align="left" alt="Ali Al Fayed | LinkedIn" width="21px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/006-linkedin.png?raw=true" />
+</a>
   
 ### 📈 GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alfayedoficial&show_icons=true&theme=dark&hide_border=true&icon_color=fff)
@@ -61,5 +58,4 @@ I'm a **Senior Android Developer** with 4+ years of experience in **Java**, **Ko
 <div align="center">
 
 [![Check out alfayedoficial's profile on stardev.io](https://stardev.io/developers/alfayedoficial/badge/languages/global.svg)](https://stardev.io/developers/alfayedoficial)
-
 </div>
