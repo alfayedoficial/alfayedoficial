@@ -53,9 +53,11 @@ I'm a **Senior Android Developer** with 4+ years of experience in **Java**, **Ko
 </a>
   
 ### 📈 GitHub Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alfayedoficial&show_icons=true&theme=dark&hide_border=true&icon_color=fff)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alfayedoficial&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <div align="center">
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alfayedoficial&show_icons=true&theme=dark&hide_border=true&icon_color=fff)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alfayedoficial&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 [![Check out alfayedoficial's profile on stardev.io](https://stardev.io/developers/alfayedoficial/badge/languages/global.svg)](https://stardev.io/developers/alfayedoficial)
 </div>
