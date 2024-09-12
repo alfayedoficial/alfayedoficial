@@ -44,14 +44,7 @@ I'm a **Senior Android Developer** with 4+ years of experience in **Java**, **Ko
 ### 📫 Contact Me
 - Email: [alialfayed.official@gmail.com](mailto:alialfayed.official@gmail.com)
 - LinkedIn: [Ali Al-Shahat Ali](https://www.linkedin.com/in/alfayedoficial/)
-- <a href="https://facebook.com/alfayedoficial">
-  <img align="left" alt="Ali Al Fayed | Facebook" width="20px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/005-facebook.png?raw=true" />
-</a> <a href="https://twitter.com/alfayedoficial">
-  <img align="left" alt="Ali Al Fayed | Twitter" width="21px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/004-twitter.png?raw=true" />
-</a> <a href="https://www.linkedin.com/in/alfayedoficial/">
-  <img align="left" alt="Ali Al Fayed | LinkedIn" width="21px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/006-linkedin.png?raw=true" />
-</a>
-  
+
 ### 📈 GitHub Stats
 <div align="center">
 
