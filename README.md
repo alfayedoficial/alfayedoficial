@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=alfayedoficial)  ![GitHub User's stars](https://img.shields.io/github/stars/alfayedoficial)   
 
 ### OBJECTIVE
-I'm a **Senior Android Developer** with 4+ years of experience in **Java**, **Kotlin**, **Flutter**, **Flutter**, and various Android development frameworks. I am highly skilled in developing mobile applications, particularly in e-commerce, educational, and facility management domains. My objective is to continue growing my expertise while contributing to innovative projects in a collaborative environment.
+I'm a **Senior Android Developer** with 4+ years of experience in **Java**, **Kotlin**, **Flutter**, **KMP**, and various Android development frameworks. I am highly skilled in developing mobile applications, particularly in e-commerce, educational, and facility management domains. My objective is to continue growing my expertise while contributing to innovative projects in a collaborative environment.
 
 ### 💻 Skills
 - **Languages**: Kotlin, Java, Flutter, KMP, Basic KTOR, PHP, .NET
