@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=alfayedoficial)  ![GitHub User's stars](https://img.shields.io/github/stars/alfayedoficial)   
 
 ### OBJECTIVE
-I'm a **Senior Android Developer** with 4+ years of experience in **Java**, **Kotlin**, **Flutter**, **KMP**, and various Android development frameworks. I am highly skilled in developing mobile applications, particularly in e-commerce, educational, and facility management domains. My objective is to continue growing my expertise while contributing to innovative projects in a collaborative environment.
+I'm a **Senior Software Engineer** with 5 years of experience in **Java**, **Kotlin**, **Flutter**, **KMP**, and various Android development frameworks. I am highly skilled in developing mobile applications, particularly in e-commerce, educational, and facility management domains. My objective is to continue growing my expertise while contributing to innovative projects in a collaborative environment.
 
 ### 💻 Skills
 - **Languages**: Kotlin, Java, Flutter, KMP, Basic KTOR, PHP, .NET
@@ -15,7 +15,7 @@ I'm a **Senior Android Developer** with 4+ years of experience in **Java**, **Ko
 - **Other Skills**: Unit Testing, Multi-Module Structure, ARP, POS Systems, Firebase Auth, and Google Play Services
 
 ### 📘 Current Work
-- **[Aligntech-Solutions](https://www.aligntech-solutions.com)**: Developing and maintaining Android apps, including Sales-TC, Print Labels, and Assets Tracking for internal use. Implemented features such as barcode scanning for inventory and offline capabilities for a seamless user experience.
+- **[VOIS]([https://www.aligntech-solutions.com](https://www.vodafone.com/careers/professional-career-areas/shared-services))**: Developing and maintaining Android apps.
   
 ### 🔭 Recent Projects
 - **Facility Management App**: Includes asset tracking and water management for government projects.
@@ -23,17 +23,15 @@ I'm a **Senior Android Developer** with 4+ years of experience in **Java**, **Ko
 - **E-Commerce Apps**: Developed for Promo Clicks, including Heart Attack and Unilever.
 - **Fitness Apps**: Developed for AraGeeks, including Hebe Gym management.
 - **Astagfirullah Projects**:
-  - **[Astagfirullah Plugin](https://plugins.jetbrains.com/plugin/24628-astagfirullah/)**: A plugin for JetBrains IDEs such as Android Studio, IntelliJ IDEA, WebStorm, and more. Helps users remember to seek forgiveness during build or sync progress.
+  - **[Astagfirullah Plugin](https://plugins.jetbrains.com/plugin/24628-astagfirullah/)**: A plugin for JetBrains IDEs such as Android Studio, IntelliJ IDEA, WebStorm, and more. Helps users remember to seek forgiveness during the build or sync process.
   - **[Astagfirullah Android App](https://play.google.com/store/apps/details?id=com.fourDev.astghfrAllah)**: An app for remembering and seeking forgiveness, with over 10K downloads on the Google Play Store.
 
 
 ### 🌱 I’m currently learning
-- **Unit Testing**: Expanding my knowledge in ensuring high-quality Android applications.
-- **Jetpack Compose**: Exploring advanced UI practices and integrations with Coroutines.
-- **CI/CD**: Learning more about automating pipelines and deployment.
+- **KMP**: Exploring advanced app practices.
 
 ### 💬 Ask me about
-- Android development using **Kotlin** or **Java**
+- Android development using **Kotlin**
 - Best practices for using **Jetpack Compose**
 - Building scalable and maintainable mobile apps
 
